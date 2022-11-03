@@ -1,3 +1,28 @@
+body {
+  background-color: #f8e8a6;
+  margin: 8px;
+}
+
+h1 {
+  text-align: center;
+}
+
+p {
+  text-align: center;
+}
+
+footer {
+  text-align: center;
+}
+
+.navigation-links {
+  color: green;
+  margin: 0 10px;
+}
+
 .croissant-photo {
-  max-width: 300px;
+  max-width: 30%;
+  border-radius: 10px;
+  display: block;
+  margin: 30px auto;
 }
